@@ -1,0 +1,24 @@
+INPUTS 
+number of simulation =  1e+05 
+number obs per sample =  16 
+true mean for sample 1 =  0 
+true mean for sample 2 =  1 
+true SD (same for both samples) =  1 
+Sig if P is between Pmin and Pmax =  0  to  0.05 
+
+ OUTPUTS 
+power =  0.7813965 for P =  0.05 
+
+ Number of 'sig' differences (P between Pmin-Pmax) =  78147  =  78.147  percent 
+Number of P <= 0.001 =  23534    =  23.534  percent 
+Number of 0.001 < P <= 0.01 =  30221    =  30.221  percent 
+Number of 0.01 < P <= 0.05 =  24392    =  24.392  percent 
+Number of P > 0.05 =  21853    =  21.853  percent 
+Number of P <+ 0.05 =  78147    =  78.147  percent 
+
+ Obs diff bet means for 'sig' results =  1.126892  True value =  1 
+
+ Number of times sig is followed by non-sig (P=0.05) =  16986  =  21.73624  percent 
+Number of times sig is followed by sig (P=0.05) =  61160  =  78.26376  percent 
+Number of times sig is followed by non-sig (P=0.01) =  24814  =  46.16215  percent 
+Number of times sig is followed by sig (P=0.01) =  28940  =  53.83785  percent 
